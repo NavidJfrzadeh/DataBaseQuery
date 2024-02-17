@@ -1,0 +1,30 @@
+﻿@using ShopProject.Entities
+@model Product
+
+@{
+    var Category = ViewBag.Category as string;
+}
+
+<table class="table table-responsive table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Color</th>
+            <th scope="col">category</th>
+        </tr>
+    </thead>
+    <tbody>
+    <th scope="row">@Model.Id</th>
+    <td>@Model.Title</td>
+    <td>@Model.Name</td>
+    <td>@Model.Description</td>
+    <td>@Model.Price</td>
+    <td>@Model.Color</td>
+    <td>@Category</td>
+    </tr>
+    </tbody>
+</table>

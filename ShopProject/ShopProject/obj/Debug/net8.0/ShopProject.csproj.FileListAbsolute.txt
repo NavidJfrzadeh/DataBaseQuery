@@ -1,0 +1,78 @@
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\appsettings.Development.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\appsettings.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.staticwebassets.runtime.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.exe
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.deps.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.runtimeconfig.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.pdb
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\Dapper.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.csproj.AssemblyReference.cache
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.AssemblyInfoInputs.cache
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.AssemblyInfo.cs
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.csproj.CoreCompileInputs.cache
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.MvcApplicationPartsAssemblyInfo.cache
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.RazorAssemblyInfo.cache
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.RazorAssemblyInfo.cs
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.ShopProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopProject.props
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopProject.props
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopProject.props
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets.pack.json
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\scopedcss\bundle\ShopProject.styles.css
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\scopedcss\projectbundle\ShopProject.bundle.scp.css
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProj.6879BB14.Up2Date
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\refint\ShopProject.dll
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.pdb
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.genruntimeconfig.cache
+E:\My Files\MaktabC#\New folder\ShopProject\ShopProject\obj\Debug\net8.0\ref\ShopProject.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.csproj.AssemblyReference.cache
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.AssemblyInfoInputs.cache
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.AssemblyInfo.cs
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.csproj.CoreCompileInputs.cache
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.MvcApplicationPartsAssemblyInfo.cache
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.RazorAssemblyInfo.cache
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.RazorAssemblyInfo.cs
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\refint\ShopProject.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.pdb
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\appsettings.Development.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\appsettings.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.staticwebassets.runtime.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.exe
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.deps.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.runtimeconfig.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\ShopProject.pdb
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\Dapper.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets.build.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets.development.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.ShopProject.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.build.ShopProject.props
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ShopProject.props
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ShopProject.props
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\staticwebassets.pack.json
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\scopedcss\bundle\ShopProject.styles.css
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\scopedcss\projectbundle\ShopProject.bundle.scp.css
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProj.6879BB14.Up2Date
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ShopProject.genruntimeconfig.cache
+E:\My Files\MaktabC#\WorkShop\ShopProject\ShopProject\obj\Debug\net8.0\ref\ShopProject.dll

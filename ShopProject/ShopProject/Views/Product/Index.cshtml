@@ -1,0 +1,37 @@
+﻿@using ShopProject.Entities;
+@model List<Product>
+
+<a asp-action="AddProductView" class="btn btn-sm btn-primary">create Product</a>
+
+<h2>Product List</h2>
+
+<table class="table table-responsive table-hover">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+            <th scope="col">Price</th>
+            <th scope="col">Color</th>
+            <th scope="col">Operation</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Title</td>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>@item.Color</td>
+                <td>
+                    <a asp-action="ProductDetails" class="btn btn-sm btn-success" asp-route-id="@item.Id">Details</a>
+                    <a asp-action="EditProduct" class="btn btn-sm btn-warning" asp-route-id="@item.Id">Edit</a>
+                    <a asp-action="DeleteProduct" class="btn btn-sm btn-danger" asp-route-id="@item.Id">Delete</a>
+                <td>
+            </tr>
+        }
+    </tbody>
